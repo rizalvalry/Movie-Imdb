@@ -14,3 +14,6 @@ npm run test
 
 ### Lints and fixes files
 npm run lint
+
+
+<img src="imdb-movie.png" width=500>
