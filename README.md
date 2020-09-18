@@ -15,5 +15,5 @@ npm run test
 ### Lints and fixes files
 npm run lint
 
-
+<hr>
 <img src="imdb-movie.png" width=500>
